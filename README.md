@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DavanaVM
-- 👀 I’m interested in all kinds of code :3
-- 🌱 I’m currently learning Javascript, HTML, C, CSS
+- 🌱 I’m currently learning Javascript, HTML, C, CSS, C++ and Python
 - 📫 How to reach me Discord @Davana#7494
 
 <!---
